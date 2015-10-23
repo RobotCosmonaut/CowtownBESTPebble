@@ -1,0 +1,29 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "rondenny@gmail.com",
+    "longName": "CowtownBEST Watchface",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/CowtownBEST",
+                "name": "IMAGE_COWTOWNBEST",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "CowtownBEST Watchface",
+    "targetPlatforms": [
+        "basalt",
+        "chalk"
+    ],
+    "uuid": "65a023da-c420-41c9-9ff4-f1c9a3934a57",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
